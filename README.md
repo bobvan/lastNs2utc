@@ -17,7 +17,7 @@ sync clocks with precision better than about 5ns:
 
 1. The best of the GNSS constellations still have a
 standard deviation of 5ns around UTC.
-Look for sigma_GPS in a recent
+Look for `sigma_GPS` in a recent
 [Circular-T from BIPM](https://webtai.bipm.org/ftp/pub/tai/Circular-T/cirt/cirt.454) to check me on this.
 2.  A national time lab like NIST may have atomic clocks that
 can do better, but
@@ -47,9 +47,14 @@ I delivered this presentation at the
 and
 [New York STAC Summit](https://docs.stacresearch.com/fall2025NYC).
 
+![Action shot from London presentation](044A0670.jpg)
+
 My presentation style is heavy on visuals and light on bullets,
 with my narration giving the key points verbally.
 The GitHub audience necessarily misses out compared to
 the live audiences.
 However, the live audiences didn't have enough screen time
 to savor the final slides on Takeaways and Best Practices.
+
+The tools I used for my research are in
+[another repo](https://github.com/bobvan/f9tResearch/).
