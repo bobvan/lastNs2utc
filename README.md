@@ -28,10 +28,12 @@ So if you're getting time from GNSS instead of from a national lab,
 you can't literally get closer than 5ns.
 
 However, my homelab tests showed that two high-quality GNSS
-receiver modules could agree on time to 550ps when
+receiver modules ([u-blox F9T](https://github.com/bobvan/f9tResearch))
+could agree on time to 550ps when
 tracking a single constellation.
 So even if that constellation was running ahead of or
-behind UTC by 5ns or more, clocks synced to it could agree sub-nanosecond.
+behind UTC by 5ns or more, clocks synced to it could
+still agree sub-nanosecond.
 
 This is the state of GNSS clock sync as I see it in late 2025.
 There are promising recent developments that I haven't tested yet:
