@@ -56,5 +56,10 @@ the live audiences.
 However, the live audiences didn't have enough screen time
 to savor the final slides on Takeaways and Best Practices.
 
+You can
+[view the presentation PDF here on GitHub](https://github.com/bobvan/lastNs2utc/blob/main/lastNs2utcGitHub76smaller.pdf)
+or
+[Download it for offline viewing](https://raw.githubusercontent.com/bobvan/lastNs2utc/main/lastNs2utcGitHub76smaller.pdf).
+
 The tools I used for my research are in
 [another repo](https://github.com/bobvan/f9tResearch/).
